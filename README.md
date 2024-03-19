@@ -13,7 +13,7 @@ In this lab, investigator examines three different files to gather evidence rele
 - **Findings:** Upon examining the contents of the file, the investigator found information such as "Joe Jacobs Supplier" and an address.
 
 #### Coverpage.jpgc
-- **Description:** The investigator accessed the file and extracted information.
+- **Description:** Suspect change file coverpage filetype into jpgc, making the computer unable to read the file. The investigator accessed the file and extracted information.
 - **Process:** To examine the "Coverpage.jpgc" file, the investigator opened the file and viewed it in filtered text format.
 - **Findings:** This revealed a piece of information: `password=goodtimes`.
 
