@@ -1,9 +1,9 @@
 # File Examination Lab
 
-This repository contains documentation for a digital forensics lab exercise focused on examining files using various forensic processes.
+This repository contains documentation for a computer forensics lab exercise focused on examining files using various forensic processes.
 
 ## Introduction 
-In this lab, investigator examines three different files to gather evidence relevat to the investigation. The processes used involve file recovery, text extraction, and file type manipulation to extract meaningful information from the files.
+In this lab, investigator examines three different files to gather evidence relevant to the investigation. The processes used involve file recovery, text extraction, and file type manipulation to extract meaningful information from the files.
 
 ### Investigator's Processes
 
